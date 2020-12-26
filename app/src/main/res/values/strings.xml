@@ -3,4 +3,8 @@
     <string name="home">Home</string>
     <string name="android">Android</string>
     <string name="fav">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorites_fragment">Favorites Fragment</string>
+    <string name="welcome">Welcome</string>
 </resources>
